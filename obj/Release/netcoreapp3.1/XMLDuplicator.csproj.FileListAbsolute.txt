@@ -1,0 +1,15 @@
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\XMLDuplicator.exe
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\XMLDuplicator.deps.json
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\XMLDuplicator.runtimeconfig.json
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\XMLDuplicator.runtimeconfig.dev.json
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\XMLDuplicator.dll
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\XMLDuplicator.pdb
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\obj\Release\netcoreapp3.1\WinFormsApp2.Form1.resources
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\obj\Release\netcoreapp3.1\XMLDuplicator.csproj.GenerateResource.cache
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\obj\Release\netcoreapp3.1\XMLDuplicator.AssemblyInfoInputs.cache
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\obj\Release\netcoreapp3.1\XMLDuplicator.AssemblyInfo.cs
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\obj\Release\netcoreapp3.1\XMLDuplicator.csproj.CoreCompileInputs.cache
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\obj\Release\netcoreapp3.1\XMLDuplicator.dll
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\obj\Release\netcoreapp3.1\XMLDuplicator.pdb
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\obj\Release\netcoreapp3.1\XMLDuplicator.genruntimeconfig.cache
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\obj\Release\netcoreapp3.1\XMLDuplicator.csprojAssemblyReference.cache

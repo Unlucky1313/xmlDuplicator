@@ -1,0 +1,5 @@
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\publish\XMLDuplicator.exe
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\publish\XMLDuplicator.dll
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\publish\XMLDuplicator.deps.json
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\publish\XMLDuplicator.runtimeconfig.json
+C:\Users\dsunl\source\repos\WinFormsApp2\WinFormsApp2\bin\Release\netcoreapp3.1\publish\XMLDuplicator.pdb
